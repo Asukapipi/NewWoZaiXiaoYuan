@@ -88,5 +88,3 @@ jobs:
          punch_longitude: ${{secrets.punch_longitude}}
          punch_latitude: ${{secrets.punch_latitude}}
        run: python actionVersion.py
-
-        
